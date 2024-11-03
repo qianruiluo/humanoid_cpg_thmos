@@ -1,0 +1,5 @@
+[31m[1mCMake Error[0m at /home/CAD/butai01/ws/src/cpg/CMakeLists.txt:20:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "​target_link_libraries".
+
+

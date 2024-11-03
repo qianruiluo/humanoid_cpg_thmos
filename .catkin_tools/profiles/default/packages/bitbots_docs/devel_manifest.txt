@@ -1,0 +1,6 @@
+bitbots_thmos_meta/bitbots_tools/bitbots_docs
+/home/CAD/butai01/ws/devel/.private/bitbots_docs/cmake.lock /home/CAD/butai01/ws/devel/./cmake.lock
+/home/CAD/butai01/ws/devel/.private/bitbots_docs/share/bitbots_docs/cmake/bitbots_docsConfig-version.cmake /home/CAD/butai01/ws/devel/share/bitbots_docs/cmake/bitbots_docsConfig-version.cmake
+/home/CAD/butai01/ws/devel/.private/bitbots_docs/share/bitbots_docs/cmake/bitbots_docsConfig.cmake /home/CAD/butai01/ws/devel/share/bitbots_docs/cmake/bitbots_docsConfig.cmake
+/home/CAD/butai01/ws/devel/.private/bitbots_docs/share/bitbots_docs/cmake/enable_bitbots_docs.cmake /home/CAD/butai01/ws/devel/share/bitbots_docs/cmake/enable_bitbots_docs.cmake
+/home/CAD/butai01/ws/devel/.private/bitbots_docs/lib/pkgconfig/bitbots_docs.pc /home/CAD/butai01/ws/devel/lib/pkgconfig/bitbots_docs.pc

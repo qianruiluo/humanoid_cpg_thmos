@@ -1,0 +1,8 @@
+prefix=/home/CAD/butai01/ws/devel/.private/fsc
+
+Name: fsc
+Description: Description of fsc
+Version: 0.0.0
+Cflags: -I/home/CAD/butai01/ws/devel/.private/fsc/include -I/home/CAD/butai01/ws/src/fsc/include
+Libs: -L${prefix}/lib -lFootstepControl
+Requires: roscpp rospy std_msgs rospy message_runtime std_msgs roscpp

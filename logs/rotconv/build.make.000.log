@@ -1,0 +1,24 @@
+[35m[1mScanning dependencies of target rotconvshared[0m
+[35m[1mScanning dependencies of target rotconvstatic[0m
+[35m[1mScanning dependencies of target rot_conv_sample_direct[0m
+[  7%] [32mBuilding CXX object CMakeFiles/rotconvshared.dir/src/rot_conv_extras.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/rotconvshared.dir/src/rot_conv.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/rotconvstatic.dir/src/rot_conv_extras.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/rotconvstatic.dir/src/rot_conv.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/rot_conv_sample_direct.dir/test/rot_conv_sample.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/rot_conv_sample_direct.dir/src/rot_conv.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rot_conv_sample_direct.dir/src/rot_conv_extras.cpp.o[0m
+[ 57%] [32m[1mLinking CXX shared library /home/CAD/butai01/ws/devel/.private/rotconv/lib/librotconvshared.so[0m
+[ 64%] [32m[1mLinking CXX static library /home/CAD/butai01/ws/devel/.private/rotconv/lib/librotconvstatic.a[0m
+[ 64%] Built target rotconvstatic
+[ 64%] Built target rotconvshared
+[35m[1mScanning dependencies of target rot_conv_sample_static[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/rot_conv_sample_static.dir/test/rot_conv_sample.cpp.o[0m
+[35m[1mScanning dependencies of target rot_conv_sample_shared[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/rot_conv_sample_shared.dir/test/rot_conv_sample.cpp.o[0m
+[ 85%] [32m[1mLinking CXX executable /home/CAD/butai01/ws/devel/.private/rotconv/lib/rotconv/rot_conv_sample_direct[0m
+[ 85%] Built target rot_conv_sample_direct
+[ 92%] [32m[1mLinking CXX executable /home/CAD/butai01/ws/devel/.private/rotconv/lib/rotconv/rot_conv_sample_static[0m
+[100%] [32m[1mLinking CXX executable /home/CAD/butai01/ws/devel/.private/rotconv/lib/rotconv/rot_conv_sample_shared[0m
+[100%] Built target rot_conv_sample_static
+[100%] Built target rot_conv_sample_shared

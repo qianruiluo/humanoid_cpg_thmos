@@ -1,0 +1,23 @@
+[31m[1mCMake Error[0m at /home/CAD/butai01/ws/src/fsc/CMakeLists.txt:124 (add_library):
+  Cannot find source file:
+
+    src/fsc/FootstepControl.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+[31m[1mCMake Error[0m at /home/CAD/butai01/ws/src/fsc/CMakeLists.txt:136 (add_executable):
+  Cannot find source file:
+
+    src/FootstepControl_node.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: fsc
+CMake Error: Cannot determine link language for target "fsc".
+CMake Error: CMake can not determine linker language for target: fsc_node
+CMake Error: Cannot determine link language for target "fsc_node".
+make: *** [cmake_check_build_system] Error 1

@@ -1,0 +1,8 @@
+prefix=/home/CAD/butai01/ws/install
+
+Name: cpg
+Description: Description of cpg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

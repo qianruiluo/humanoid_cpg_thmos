@@ -1,0 +1,6 @@
+devel_space: /home/CAD/butai01/ws/devel
+install: false
+install_space: /home/CAD/butai01/ws/install
+profile: default
+source_space: /home/CAD/butai01/ws/src
+workspace: /home/CAD/butai01/ws

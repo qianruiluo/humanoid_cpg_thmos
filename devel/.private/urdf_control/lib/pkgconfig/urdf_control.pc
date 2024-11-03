@@ -1,0 +1,8 @@
+prefix=/home/CAD/butai01/ws/devel/.private/urdf_control
+
+Name: urdf_control
+Description: Description of urdf_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

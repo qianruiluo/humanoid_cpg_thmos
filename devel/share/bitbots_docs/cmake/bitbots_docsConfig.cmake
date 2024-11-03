@@ -1,0 +1,1 @@
+/home/CAD/butai01/ws/devel/.private/bitbots_docs/share/bitbots_docs/cmake/bitbots_docsConfig.cmake

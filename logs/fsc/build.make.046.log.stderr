@@ -1,0 +1,14 @@
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:119:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kwhile[m[K’
+     [01;31m[Kwhile[m[K (ros::ok())
+     [01;31m[K^~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:119:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kwhile[m[K’
+     [01;31m[Kwhile[m[K (ros::ok())
+     [01;31m[K^~~~~[m[K
+make[2]: *** [CMakeFiles/fsc_node.dir/src/FootstepControl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fsc_node.dir/all] Error 2
+make[1]: *** 正在等待未完成的任务....
+make[2]: *** [CMakeFiles/fsc.dir/src/FootstepControl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fsc.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,8 @@
+prefix=/home/CAD/butai01/ws/devel/.private/bitbots_docs
+
+Name: bitbots_docs
+Description: Description of bitbots_docs
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

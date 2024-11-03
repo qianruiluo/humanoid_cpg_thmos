@@ -1,0 +1,20 @@
+[33m[1mCMake Warning[0m at /opt/ros/melodic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'system_lib' but neither
+  'system_lib_INCLUDE_DIRS' nor 'system_lib_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:104 (catkin_package)
+
+
+[31m[1mCMake Error[0m at /home/CAD/butai01/ws/src/fsc/CMakeLists.txt:124 (add_library):
+  Cannot find source file:
+
+    src/fsc/src/FootstepControl.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: fsc
+CMake Error: Cannot determine link language for target "fsc".
+make: *** [cmake_check_build_system] Error 1

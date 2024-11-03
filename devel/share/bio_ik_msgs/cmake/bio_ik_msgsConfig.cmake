@@ -1,0 +1,1 @@
+/home/CAD/butai01/ws/devel/.private/bio_ik_msgs/share/bio_ik_msgs/cmake/bio_ik_msgsConfig.cmake

@@ -1,0 +1,5 @@
+[31m[1mCMake Error[0m at /home/CAD/butai01/ws/src/ik/CMakeLists.txt:25 (target_link_libraries):
+  Cannot specify link libraries for target "ik" which is not built by this
+  project.
+
+

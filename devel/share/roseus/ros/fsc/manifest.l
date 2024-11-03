@@ -1,0 +1,1 @@
+/home/CAD/butai01/ws/devel/.private/fsc/share/roseus/ros/fsc/manifest.l

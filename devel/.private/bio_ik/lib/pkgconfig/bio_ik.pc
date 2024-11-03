@@ -1,0 +1,8 @@
+prefix=/home/CAD/butai01/ws/devel/.private/bio_ik
+
+Name: bio_ik
+Description: Description of bio_ik
+Version: 1.0.0
+Cflags: -I/home/CAD/butai01/ws/src/bitbots_thmos_meta/lib/bio_ik/include
+Libs: -L${prefix}/lib -lbio_ik
+Requires: eigen_conversions moveit_core moveit_ros_planning pluginlib roscpp tf2 tf2_kdl tf2_geometry_msgs

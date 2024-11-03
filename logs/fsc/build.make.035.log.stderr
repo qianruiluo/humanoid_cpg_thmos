@@ -1,0 +1,14 @@
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:9:10:[m[K [01;31m[Kfatal error: [m[Kfsc/CpgParam.h: 没有那个文件或目录
+ #include [01;31m[K"fsc/CpgParam.h"[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/fsc_node.dir/src/FootstepControl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fsc_node.dir/all] Error 2
+make[1]: *** 正在等待未完成的任务....
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:9:10:[m[K [01;31m[Kfatal error: [m[Kfsc/CpgParam.h: 没有那个文件或目录
+ #include [01;31m[K"fsc/CpgParam.h"[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/fsc.dir/src/FootstepControl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fsc.dir/all] Error 2
+make: *** [all] Error 2

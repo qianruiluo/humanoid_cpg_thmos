@@ -1,0 +1,5 @@
+tot
+/home/CAD/butai01/ws/devel/.private/tot/cmake.lock /home/CAD/butai01/ws/devel/./cmake.lock
+/home/CAD/butai01/ws/devel/.private/tot/share/tot/cmake/totConfig.cmake /home/CAD/butai01/ws/devel/share/tot/cmake/totConfig.cmake
+/home/CAD/butai01/ws/devel/.private/tot/share/tot/cmake/totConfig-version.cmake /home/CAD/butai01/ws/devel/share/tot/cmake/totConfig-version.cmake
+/home/CAD/butai01/ws/devel/.private/tot/lib/pkgconfig/tot.pc /home/CAD/butai01/ws/devel/lib/pkgconfig/tot.pc

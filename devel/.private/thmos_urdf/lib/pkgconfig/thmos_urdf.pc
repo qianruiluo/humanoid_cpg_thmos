@@ -1,0 +1,8 @@
+prefix=/home/CAD/butai01/ws/devel/.private/thmos_urdf
+
+Name: thmos_urdf
+Description: Description of thmos_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

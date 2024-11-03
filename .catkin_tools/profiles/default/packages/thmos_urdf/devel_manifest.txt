@@ -1,0 +1,5 @@
+bitbots_thmos_meta/wolfgang_robot/thmos_urdf
+/home/CAD/butai01/ws/devel/.private/thmos_urdf/cmake.lock /home/CAD/butai01/ws/devel/./cmake.lock
+/home/CAD/butai01/ws/devel/.private/thmos_urdf/share/thmos_urdf/cmake/thmos_urdfConfig-version.cmake /home/CAD/butai01/ws/devel/share/thmos_urdf/cmake/thmos_urdfConfig-version.cmake
+/home/CAD/butai01/ws/devel/.private/thmos_urdf/share/thmos_urdf/cmake/thmos_urdfConfig.cmake /home/CAD/butai01/ws/devel/share/thmos_urdf/cmake/thmos_urdfConfig.cmake
+/home/CAD/butai01/ws/devel/.private/thmos_urdf/lib/pkgconfig/thmos_urdf.pc /home/CAD/butai01/ws/devel/lib/pkgconfig/thmos_urdf.pc

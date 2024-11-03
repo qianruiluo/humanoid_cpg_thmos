@@ -1,0 +1,30 @@
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:69:16:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ does not name a type
+ void FSC(const [01;31m[KFootstepControl[m[K::MyState::ConstPtr &msg)
+                [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:69:40:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K::[m[K’ token
+ void FSC(const FootstepControl::MyState[01;31m[K::[m[KConstPtr &msg)
+                                        [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:69:40:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K::[m[K’ token
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:69:40:[m[K [01;31m[Kerror: [m[Kexpected initializer before ‘[01m[K::[m[K’ token
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:114:53:[m[K [01;31m[Kerror: [m[K‘[01m[KFSC[m[K’ was not declared in this scope
+     ros::Subscriber sub = n.subscribe("cstate", 10, [01;31m[KFSC[m[K);
+                                                     [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:69:16:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ does not name a type
+ void FSC(const [01;31m[KFootstepControl[m[K::MyState::ConstPtr &msg)
+                [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:69:40:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K::[m[K’ token
+ void FSC(const FootstepControl::MyState[01;31m[K::[m[KConstPtr &msg)
+                                        [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:69:40:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K::[m[K’ token
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:69:40:[m[K [01;31m[Kerror: [m[Kexpected initializer before ‘[01m[K::[m[K’ token
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:114:53:[m[K [01;31m[Kerror: [m[K‘[01m[KFSC[m[K’ was not declared in this scope
+     ros::Subscriber sub = n.subscribe("cstate", 10, [01;31m[KFSC[m[K);
+                                                     [01;31m[K^~~[m[K
+make[2]: *** [CMakeFiles/fsc_node.dir/src/FootstepControl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fsc_node.dir/all] Error 2
+make[1]: *** 正在等待未完成的任务....
+make[2]: *** [CMakeFiles/fsc.dir/src/FootstepControl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fsc.dir/all] Error 2
+make: *** [all] Error 2

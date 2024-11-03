@@ -1,0 +1,11 @@
+[31m[1mCMake Error[0m at /home/CAD/butai01/ws/src/ik/CMakeLists.txt:27 (add_library):
+  Cannot find source file:
+
+    scripts/ik.py
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: ik
+CMake Error: Cannot determine link language for target "ik".

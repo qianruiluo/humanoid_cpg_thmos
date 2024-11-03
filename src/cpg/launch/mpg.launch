@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="cpg" type="webots.py" name="node_0"/>
+    <node pkg="est" type="pub_com_pos.py" name="node_1"/>
+    <node pkg="fsc" type="node" name="node_2"/>
+    <node pkg="cpg" type="cpg.py" name="node_3"/>
+</launch>

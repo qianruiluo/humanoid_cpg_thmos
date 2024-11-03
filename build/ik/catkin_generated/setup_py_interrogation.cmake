@@ -1,0 +1,7 @@
+set(ik_SETUP_PY_SETUP_MODULE "distutils.core")
+set(ik_SETUP_PY_VERSION "0.0.0")
+set(ik_SETUP_PY_SCRIPTS "")
+set(ik_SETUP_PY_PACKAGES "ik")
+set(ik_SETUP_PY_PACKAGE_DIRS "src/ik")
+set(ik_SETUP_PY_MODULES "")
+set(ik_SETUP_PY_MODULE_DIRS "")

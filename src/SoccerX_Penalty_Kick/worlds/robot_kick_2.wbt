@@ -1,0 +1,34 @@
+#VRML_SIM R2021b utf8
+WorldInfo {
+  basicTimeStep 4
+  coordinateSystem "NUE"
+  gravity 1
+}
+Viewpoint {
+  orientation -0.108179 -0.988134 0.109033 4.89167
+  position -0.839797 7.66503 0.660495
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RobocupSoccerField {
+}
+DEF Soccer RobocupSoccerBall {
+  translation -2.8 0.09 0.41
+}
+Solid {
+  static TRUE
+  children [
+    THMOS {
+      translation -1.8 8 0.4
+      rotation 0 0.7071062811861719 0.7071072811865696 3.14159
+      name "red_player_1"
+      controller "ros_webots_controller"
+      controllerArgs [
+        "--robot_name=red_player_1"
+      ]
+      supervisor TRUE
+    }
+  ]
+}

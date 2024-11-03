@@ -1,0 +1,196 @@
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:15:10:[m[K [01;31m[Kerror: [m[Kuninitialized const ‘[01m[Kal[m[K’ [[01;31m[K-fpermissive[m[K]
+ const DB [01;31m[Kal[m[K,dt,og,sg;
+          [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:15:13:[m[K [01;31m[Kerror: [m[Kuninitialized const ‘[01m[Kdt[m[K’ [[01;31m[K-fpermissive[m[K]
+ const DB al,[01;31m[Kdt[m[K,og,sg;
+             [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:15:16:[m[K [01;31m[Kerror: [m[Kuninitialized const ‘[01m[Kog[m[K’ [[01;31m[K-fpermissive[m[K]
+ const DB al,dt,[01;31m[Kog[m[K,sg;
+                [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:15:19:[m[K [01;31m[Kerror: [m[Kuninitialized const ‘[01m[Ksg[m[K’ [[01;31m[K-fpermissive[m[K]
+ const DB al,dt,og,[01;31m[Ksg[m[K;
+                   [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:42:8:[m[K [01;31m[Kerror: [m[K‘[01m[Kpair[m[K’ does not name a type
+ inline [01;31m[Kpair[m[K<DB,DB> pred(DB x, DB dx, DB t){DB si=sinh(C*t),co=cosh(C*t);return make_pair(x*co+dx*si/C,dx*co+x*si*C);}
+        [01;31m[K^~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:11:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ has not been declared
+ bool setv([01;31m[KFootstepControl[m[K::SetV::Request &req, FootstepControl::SetV::Response &res){tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+           [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:43:[m[K [01;31m[Kerror: [m[K‘[01m[Kreq[m[K’ was not declared in this scope
+ bool setv(FootstepControl::SetV::Request &[01;31m[Kreq[m[K, FootstepControl::SetV::Response &res){tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+                                           [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:48:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ has not been declared
+ bool setv(FootstepControl::SetV::Request &req, [01;31m[KFootstepControl[m[K::SetV::Response &res){tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+                                                [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:81:[m[K [01;31m[Kerror: [m[K‘[01m[Kres[m[K’ was not declared in this scope
+ bool setv(FootstepControl::SetV::Request &req, FootstepControl::SetV::Response &[01;31m[Kres[m[K){tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+                                                                                 [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:84:[m[K [01;31m[Kerror: [m[Kexpression list treated as compound expression in initializer [[01;31m[K-fpermissive[m[K]
+ bool setv(FootstepControl::SetV::Request &req, FootstepControl::SetV::Response &res[01;31m[K)[m[K{tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+                                                                                    [01;31m[K^[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K In function ‘[01m[Kvoid Filter(double, double, double, double)[m[K’:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:57:69:[m[K [01;31m[Kerror: [m[K‘[01m[Kmax[m[K’ was not declared in this scope
+     DB b=filter_k*L2_4(cx-cx_,dcx-dcx_,cy-cy_,dcy-dcy_)*(1-exp(-sqr([01;31m[Kmax[m[K(0.0,(ros::Time::now().toNSec()-ls_T)/1e9-f_ep)/f_ep)*0.5));
+                                                                     [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:57:69:[m[K [01;36m[Knote: [m[Ksuggested alternatives:
+In file included from [01m[K/usr/include/c++/7/algorithm:62:0[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:2[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algo.h:3468:5:[m[K [01;36m[Knote: [m[K  ‘[01m[Kstd::max[m[K’
+     [01;36m[Kmax[m[K(initializer_list<_Tp> __l, _Compare __comp)
+     [01;36m[K^~~[m[K
+In file included from [01m[K/usr/include/boost/math/special_functions/round.hpp:13:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:7[m[K:
+[01m[K/usr/include/boost/math/tools/config.hpp:347:10:[m[K [01;36m[Knote: [m[K  ‘[01m[Kboost::math::tools::max[m[K’
+ inline T [01;36m[Kmax[m[K BOOST_PREVENT_MACRO_SUBSTITUTION(T a, T b, T c, T d) BOOST_MATH_NOEXCEPT(T)
+          [01;36m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:58:15:[m[K [01;31m[Kerror: [m[K‘[01m[Kmin[m[K’ was not declared in this scope
+     b=max(0.0,[01;31m[Kmin[m[K(1.0,b));cx+=b*(cx_-cx);dcx+=b*(dcx_-dcx);cy+=b*(cy_-cy);dcy+=b*(dcy_-dcy);
+               [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:58:15:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/usr/include/c++/7/algorithm:62:0[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:2[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algo.h:3456:5:[m[K [01;36m[Knote: [m[K  ‘[01m[Kstd::min[m[K’
+     [01;36m[Kmin[m[K(initializer_list<_Tp> __l, _Compare __comp)
+     [01;36m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K At global scope:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:67:16:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ does not name a type
+ void FSC(const [01;31m[KFootstepControl[m[K::MyState::ConstPtr &msg)
+                [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:67:40:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K::[m[K’ token
+ void FSC(const FootstepControl::MyState[01;31m[K::[m[KConstPtr &msg)
+                                        [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:67:40:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K::[m[K’ token
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:67:40:[m[K [01;31m[Kerror: [m[Kexpected initializer before ‘[01m[K::[m[K’ token
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:112:27:[m[K [01;31m[Kerror: [m[K‘[01m[Kn[m[K’ was not declared in this scope
+     ros::Subscriber sub = [01;31m[Kn[m[K.subscribe("cstate", 10, FSC);
+                           [01;31m[K^[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:112:27:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Knh[m[K’
+     ros::Subscriber sub = [01;36m[Kn[m[K.subscribe("cstate", 10, FSC);
+                           [01;36m[K^[m[K
+                           [32m[Knh[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:112:53:[m[K [01;31m[Kerror: [m[K‘[01m[KFSC[m[K’ was not declared in this scope
+     ros::Subscriber sub = n.subscribe("cstate", 10, [01;31m[KFSC[m[K);
+                                                     [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:113:23:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ has not been declared
+     pub = n.advertise<[01;31m[KFootstepControl[m[K::CpgParam>("cpgin", 10);
+                       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:119:11:[m[K [01;31m[Kerror: [m[K‘[01m[Kmax[m[K’ was not declared in this scope
+         T=[01;31m[Kmax[m[K(0.001,T-rho);//我觉得不能减到0吧, 但是我现在也不知道怎么换的腿
+           [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:119:11:[m[K [01;36m[Knote: [m[Ksuggested alternatives:
+In file included from [01m[K/usr/include/c++/7/algorithm:62:0[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:2[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algo.h:3468:5:[m[K [01;36m[Knote: [m[K  ‘[01m[Kstd::max[m[K’
+     [01;36m[Kmax[m[K(initializer_list<_Tp> __l, _Compare __comp)
+     [01;36m[K^~~[m[K
+In file included from [01m[K/usr/include/boost/math/special_functions/round.hpp:13:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:7[m[K:
+[01m[K/usr/include/boost/math/tools/config.hpp:347:10:[m[K [01;36m[Knote: [m[K  ‘[01m[Kboost::math::tools::max[m[K’
+ inline T [01;36m[Kmax[m[K BOOST_PREVENT_MACRO_SUBSTITUTION(T a, T b, T c, T d) BOOST_MATH_NOEXCEPT(T)
+          [01;36m[K^~~[m[K
+make[2]: *** [CMakeFiles/fsc_node.dir/src/FootstepControl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fsc_node.dir/all] Error 2
+make[1]: *** 正在等待未完成的任务....
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:15:10:[m[K [01;31m[Kerror: [m[Kuninitialized const ‘[01m[Kal[m[K’ [[01;31m[K-fpermissive[m[K]
+ const DB [01;31m[Kal[m[K,dt,og,sg;
+          [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:15:13:[m[K [01;31m[Kerror: [m[Kuninitialized const ‘[01m[Kdt[m[K’ [[01;31m[K-fpermissive[m[K]
+ const DB al,[01;31m[Kdt[m[K,og,sg;
+             [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:15:16:[m[K [01;31m[Kerror: [m[Kuninitialized const ‘[01m[Kog[m[K’ [[01;31m[K-fpermissive[m[K]
+ const DB al,dt,[01;31m[Kog[m[K,sg;
+                [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:15:19:[m[K [01;31m[Kerror: [m[Kuninitialized const ‘[01m[Ksg[m[K’ [[01;31m[K-fpermissive[m[K]
+ const DB al,dt,og,[01;31m[Ksg[m[K;
+                   [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:42:8:[m[K [01;31m[Kerror: [m[K‘[01m[Kpair[m[K’ does not name a type
+ inline [01;31m[Kpair[m[K<DB,DB> pred(DB x, DB dx, DB t){DB si=sinh(C*t),co=cosh(C*t);return make_pair(x*co+dx*si/C,dx*co+x*si*C);}
+        [01;31m[K^~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:11:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ has not been declared
+ bool setv([01;31m[KFootstepControl[m[K::SetV::Request &req, FootstepControl::SetV::Response &res){tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+           [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:43:[m[K [01;31m[Kerror: [m[K‘[01m[Kreq[m[K’ was not declared in this scope
+ bool setv(FootstepControl::SetV::Request &[01;31m[Kreq[m[K, FootstepControl::SetV::Response &res){tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+                                           [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:48:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ has not been declared
+ bool setv(FootstepControl::SetV::Request &req, [01;31m[KFootstepControl[m[K::SetV::Response &res){tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+                                                [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:81:[m[K [01;31m[Kerror: [m[K‘[01m[Kres[m[K’ was not declared in this scope
+ bool setv(FootstepControl::SetV::Request &req, FootstepControl::SetV::Response &[01;31m[Kres[m[K){tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+                                                                                 [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:49:84:[m[K [01;31m[Kerror: [m[Kexpression list treated as compound expression in initializer [[01;31m[K-fpermissive[m[K]
+ bool setv(FootstepControl::SetV::Request &req, FootstepControl::SetV::Response &res[01;31m[K)[m[K{tvx = req.vx;tvy = req.vy;tvr = req.vr;return true;}
+                                                                                    [01;31m[K^[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K In function ‘[01m[Kvoid Filter(double, double, double, double)[m[K’:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:57:69:[m[K [01;31m[Kerror: [m[K‘[01m[Kmax[m[K’ was not declared in this scope
+     DB b=filter_k*L2_4(cx-cx_,dcx-dcx_,cy-cy_,dcy-dcy_)*(1-exp(-sqr([01;31m[Kmax[m[K(0.0,(ros::Time::now().toNSec()-ls_T)/1e9-f_ep)/f_ep)*0.5));
+                                                                     [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:57:69:[m[K [01;36m[Knote: [m[Ksuggested alternatives:
+In file included from [01m[K/usr/include/c++/7/algorithm:62:0[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:2[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algo.h:3468:5:[m[K [01;36m[Knote: [m[K  ‘[01m[Kstd::max[m[K’
+     [01;36m[Kmax[m[K(initializer_list<_Tp> __l, _Compare __comp)
+     [01;36m[K^~~[m[K
+In file included from [01m[K/usr/include/boost/math/special_functions/round.hpp:13:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:7[m[K:
+[01m[K/usr/include/boost/math/tools/config.hpp:347:10:[m[K [01;36m[Knote: [m[K  ‘[01m[Kboost::math::tools::max[m[K’
+ inline T [01;36m[Kmax[m[K BOOST_PREVENT_MACRO_SUBSTITUTION(T a, T b, T c, T d) BOOST_MATH_NOEXCEPT(T)
+          [01;36m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:58:15:[m[K [01;31m[Kerror: [m[K‘[01m[Kmin[m[K’ was not declared in this scope
+     b=max(0.0,[01;31m[Kmin[m[K(1.0,b));cx+=b*(cx_-cx);dcx+=b*(dcx_-dcx);cy+=b*(cy_-cy);dcy+=b*(dcy_-dcy);
+               [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:58:15:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/usr/include/c++/7/algorithm:62:0[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:2[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algo.h:3456:5:[m[K [01;36m[Knote: [m[K  ‘[01m[Kstd::min[m[K’
+     [01;36m[Kmin[m[K(initializer_list<_Tp> __l, _Compare __comp)
+     [01;36m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K At global scope:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:67:16:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ does not name a type
+ void FSC(const [01;31m[KFootstepControl[m[K::MyState::ConstPtr &msg)
+                [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:67:40:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K::[m[K’ token
+ void FSC(const FootstepControl::MyState[01;31m[K::[m[KConstPtr &msg)
+                                        [01;31m[K^~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:67:40:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K::[m[K’ token
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:67:40:[m[K [01;31m[Kerror: [m[Kexpected initializer before ‘[01m[K::[m[K’ token
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:112:27:[m[K [01;31m[Kerror: [m[K‘[01m[Kn[m[K’ was not declared in this scope
+     ros::Subscriber sub = [01;31m[Kn[m[K.subscribe("cstate", 10, FSC);
+                           [01;31m[K^[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:112:27:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Knh[m[K’
+     ros::Subscriber sub = [01;36m[Kn[m[K.subscribe("cstate", 10, FSC);
+                           [01;36m[K^[m[K
+                           [32m[Knh[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:112:53:[m[K [01;31m[Kerror: [m[K‘[01m[KFSC[m[K’ was not declared in this scope
+     ros::Subscriber sub = n.subscribe("cstate", 10, [01;31m[KFSC[m[K);
+                                                     [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:113:23:[m[K [01;31m[Kerror: [m[K‘[01m[KFootstepControl[m[K’ has not been declared
+     pub = n.advertise<[01;31m[KFootstepControl[m[K::CpgParam>("cpgin", 10);
+                       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:119:11:[m[K [01;31m[Kerror: [m[K‘[01m[Kmax[m[K’ was not declared in this scope
+         T=[01;31m[Kmax[m[K(0.001,T-rho);//我觉得不能减到0吧, 但是我现在也不知道怎么换的腿
+           [01;31m[K^~~[m[K
+[01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:119:11:[m[K [01;36m[Knote: [m[Ksuggested alternatives:
+In file included from [01m[K/usr/include/c++/7/algorithm:62:0[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:2[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algo.h:3468:5:[m[K [01;36m[Knote: [m[K  ‘[01m[Kstd::max[m[K’
+     [01;36m[Kmax[m[K(initializer_list<_Tp> __l, _Compare __comp)
+     [01;36m[K^~~[m[K
+In file included from [01m[K/usr/include/boost/math/special_functions/round.hpp:13:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/CAD/butai01/ws/src/fsc/src/FootstepControl.cpp:7[m[K:
+[01m[K/usr/include/boost/math/tools/config.hpp:347:10:[m[K [01;36m[Knote: [m[K  ‘[01m[Kboost::math::tools::max[m[K’
+ inline T [01;36m[Kmax[m[K BOOST_PREVENT_MACRO_SUBSTITUTION(T a, T b, T c, T d) BOOST_MATH_NOEXCEPT(T)
+          [01;36m[K^~~[m[K
+make[2]: *** [CMakeFiles/fsc.dir/src/FootstepControl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/fsc.dir/all] Error 2
+make: *** [all] Error 2

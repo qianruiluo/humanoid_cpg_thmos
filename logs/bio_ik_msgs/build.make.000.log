@@ -1,0 +1,180 @@
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_TouchGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_TouchGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_OrientationGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_OrientationGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_IKRequest[0m
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_JointVariableGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_IKRequest
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_JointVariableGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_LineGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_LineGoal
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_lisp[0m
+[  0%] Built target moveit_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_MinDistanceGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_MinDistanceGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_MaxDistanceGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_MaxDistanceGoal
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_PositionGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_PositionGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_IKResponse[0m
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_ConeGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_IKResponse
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_ConeGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_GetIK[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_GetIK
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_DirectionGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_DirectionGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_LookAtGoal[0m
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_BalanceGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_LookAtGoal
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_BalanceGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_MinimalDisplacementGoal[0m
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_CenterJointsGoal[0m
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_PoseGoal[0m
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_SideGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_CenterJointsGoal
+[35m[1mScanning dependencies of target _bio_ik_msgs_generate_messages_check_deps_AvoidJointLimitsGoal[0m
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_SideGoal
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_MinimalDisplacementGoal
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_PoseGoal
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_py[0m
+[  0%] Built target moveit_msgs_generate_messages_py
+[  0%] Built target _bio_ik_msgs_generate_messages_check_deps_AvoidJointLimitsGoal
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target moveit_msgs_generate_messages_cpp
+[  0%] Built target moveit_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bio_ik_msgs_generate_messages_lisp[0m
+[  0%] Built target moveit_msgs_generate_messages_eus
+[  1%] [34m[1mGenerating Lisp code from bio_ik_msgs/OrientationGoal.msg[0m
+[35m[1mScanning dependencies of target bio_ik_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target bio_ik_msgs_generate_messages_py[0m
+[  2%] [34m[1mGenerating Lisp code from bio_ik_msgs/IKResponse.msg[0m
+[  3%] [34m[1mGenerating Python from MSG bio_ik_msgs/OrientationGoal[0m
+[  3%] [34m[1mGenerating C++ code from bio_ik_msgs/OrientationGoal.msg[0m
+[  4%] [34m[1mGenerating C++ code from bio_ik_msgs/IKResponse.msg[0m
+[  5%] [34m[1mGenerating Lisp code from bio_ik_msgs/IKRequest.msg[0m
+[  6%] [34m[1mGenerating Lisp code from bio_ik_msgs/DirectionGoal.msg[0m
+[  7%] [34m[1mGenerating C++ code from bio_ik_msgs/IKRequest.msg[0m
+[  8%] [34m[1mGenerating Lisp code from bio_ik_msgs/JointVariableGoal.msg[0m
+[ 10%] [34m[1mGenerating Python from MSG bio_ik_msgs/IKResponse[0m
+[ 11%] [34m[1mGenerating Python from MSG bio_ik_msgs/IKRequest[0m
+[ 12%] [34m[1mGenerating Lisp code from bio_ik_msgs/LineGoal.msg[0m
+[ 13%] [34m[1mGenerating C++ code from bio_ik_msgs/DirectionGoal.msg[0m
+[ 14%] [34m[1mGenerating Lisp code from bio_ik_msgs/LookAtGoal.msg[0m
+[ 15%] [34m[1mGenerating Lisp code from bio_ik_msgs/BalanceGoal.msg[0m
+[ 16%] [34m[1mGenerating C++ code from bio_ik_msgs/JointVariableGoal.msg[0m
+[ 17%] [34m[1mGenerating Python from MSG bio_ik_msgs/JointVariableGoal[0m
+[ 19%] [34m[1mGenerating Python from MSG bio_ik_msgs/DirectionGoal[0m
+[ 20%] [34m[1mGenerating Lisp code from bio_ik_msgs/SideGoal.msg[0m
+[ 20%] [34m[1mGenerating Lisp code from bio_ik_msgs/PoseGoal.msg[0m
+[35m[1mScanning dependencies of target bio_ik_msgs_generate_messages_nodejs[0m
+[ 21%] [34m[1mGenerating Lisp code from bio_ik_msgs/MaxDistanceGoal.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from bio_ik_msgs/OrientationGoal.msg[0m
+[ 24%] [34m[1mGenerating Javascript code from bio_ik_msgs/IKResponse.msg[0m
+[ 24%] [34m[1mGenerating Lisp code from bio_ik_msgs/MinimalDisplacementGoal.msg[0m
+[ 24%] [34m[1mGenerating Javascript code from bio_ik_msgs/IKRequest.msg[0m
+[ 25%] [34m[1mGenerating C++ code from bio_ik_msgs/LineGoal.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from bio_ik_msgs/PositionGoal.msg[0m
+[ 28%] [34m[1mGenerating Python from MSG bio_ik_msgs/LineGoal[0m
+[ 29%] [34m[1mGenerating Lisp code from bio_ik_msgs/TouchGoal.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from bio_ik_msgs/DirectionGoal.msg[0m
+[ 31%] [34m[1mGenerating Lisp code from bio_ik_msgs/ConeGoal.msg[0m
+[35m[1mScanning dependencies of target bio_ik_msgs_generate_messages_eus[0m
+[ 32%] [34m[1mGenerating Javascript code from bio_ik_msgs/JointVariableGoal.msg[0m
+[ 33%] [34m[1mGenerating EusLisp code from bio_ik_msgs/OrientationGoal.msg[0m
+[ 34%] [34m[1mGenerating C++ code from bio_ik_msgs/LookAtGoal.msg[0m
+[ 35%] [34m[1mGenerating Lisp code from bio_ik_msgs/CenterJointsGoal.msg[0m
+[ 37%] [34m[1mGenerating Javascript code from bio_ik_msgs/LineGoal.msg[0m
+[ 38%] [34m[1mGenerating Python from MSG bio_ik_msgs/LookAtGoal[0m
+[ 39%] [34m[1mGenerating EusLisp code from bio_ik_msgs/IKResponse.msg[0m
+[ 40%] [34m[1mGenerating Lisp code from bio_ik_msgs/AvoidJointLimitsGoal.msg[0m
+[ 40%] [34m[1mGenerating Python from MSG bio_ik_msgs/BalanceGoal[0m
+[ 41%] [34m[1mGenerating Python from MSG bio_ik_msgs/SideGoal[0m
+[ 42%] [34m[1mGenerating Javascript code from bio_ik_msgs/LookAtGoal.msg[0m
+[ 43%] [34m[1mGenerating C++ code from bio_ik_msgs/BalanceGoal.msg[0m
+[ 44%] [34m[1mGenerating Lisp code from bio_ik_msgs/MinDistanceGoal.msg[0m
+[ 46%] [34m[1mGenerating Javascript code from bio_ik_msgs/BalanceGoal.msg[0m
+[ 47%] [34m[1mGenerating EusLisp code from bio_ik_msgs/IKRequest.msg[0m
+[ 48%] [34m[1mGenerating Lisp code from bio_ik_msgs/GetIK.srv[0m
+[ 48%] Built target bio_ik_msgs_generate_messages_lisp
+[ 49%] [34m[1mGenerating EusLisp code from bio_ik_msgs/DirectionGoal.msg[0m
+[ 50%] [34m[1mGenerating Python from MSG bio_ik_msgs/PoseGoal[0m
+[ 51%] [34m[1mGenerating EusLisp code from bio_ik_msgs/JointVariableGoal.msg[0m
+[ 52%] [34m[1mGenerating Javascript code from bio_ik_msgs/SideGoal.msg[0m
+[ 53%] [34m[1mGenerating Javascript code from bio_ik_msgs/PoseGoal.msg[0m
+[ 55%] [34m[1mGenerating C++ code from bio_ik_msgs/SideGoal.msg[0m
+[ 56%] [34m[1mGenerating C++ code from bio_ik_msgs/PoseGoal.msg[0m
+[ 57%] [34m[1mGenerating C++ code from bio_ik_msgs/MaxDistanceGoal.msg[0m
+[ 58%] [34m[1mGenerating C++ code from bio_ik_msgs/MinimalDisplacementGoal.msg[0m
+[ 58%] [34m[1mGenerating EusLisp code from bio_ik_msgs/LineGoal.msg[0m
+[ 59%] [34m[1mGenerating Javascript code from bio_ik_msgs/MaxDistanceGoal.msg[0m
+[ 60%] [34m[1mGenerating Python from MSG bio_ik_msgs/MaxDistanceGoal[0m
+[ 61%] [34m[1mGenerating Javascript code from bio_ik_msgs/MinimalDisplacementGoal.msg[0m
+[ 62%] [34m[1mGenerating EusLisp code from bio_ik_msgs/LookAtGoal.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from bio_ik_msgs/BalanceGoal.msg[0m
+[ 65%] [34m[1mGenerating Javascript code from bio_ik_msgs/PositionGoal.msg[0m
+[ 66%] [34m[1mGenerating Javascript code from bio_ik_msgs/TouchGoal.msg[0m
+[ 67%] [34m[1mGenerating C++ code from bio_ik_msgs/TouchGoal.msg[0m
+[ 67%] [34m[1mGenerating C++ code from bio_ik_msgs/PositionGoal.msg[0m
+[ 68%] [34m[1mGenerating EusLisp code from bio_ik_msgs/SideGoal.msg[0m
+[ 69%] [34m[1mGenerating Javascript code from bio_ik_msgs/CenterJointsGoal.msg[0m
+[ 69%] [34m[1mGenerating Javascript code from bio_ik_msgs/ConeGoal.msg[0m
+[ 70%] [34m[1mGenerating Javascript code from bio_ik_msgs/AvoidJointLimitsGoal.msg[0m
+[ 71%] [34m[1mGenerating Python from MSG bio_ik_msgs/MinimalDisplacementGoal[0m
+[ 73%] [34m[1mGenerating EusLisp code from bio_ik_msgs/PoseGoal.msg[0m
+[ 74%] [34m[1mGenerating EusLisp code from bio_ik_msgs/MaxDistanceGoal.msg[0m
+[ 75%] [34m[1mGenerating EusLisp code from bio_ik_msgs/MinimalDisplacementGoal.msg[0m
+[ 76%] [34m[1mGenerating C++ code from bio_ik_msgs/ConeGoal.msg[0m
+[ 77%] [34m[1mGenerating Javascript code from bio_ik_msgs/GetIK.srv[0m
+[ 78%] [34m[1mGenerating Javascript code from bio_ik_msgs/MinDistanceGoal.msg[0m
+[ 79%] [34m[1mGenerating C++ code from bio_ik_msgs/CenterJointsGoal.msg[0m
+[ 79%] Built target bio_ik_msgs_generate_messages_nodejs
+[ 80%] [34m[1mGenerating EusLisp code from bio_ik_msgs/PositionGoal.msg[0m
+[ 82%] [34m[1mGenerating C++ code from bio_ik_msgs/AvoidJointLimitsGoal.msg[0m
+[ 83%] [34m[1mGenerating EusLisp code from bio_ik_msgs/TouchGoal.msg[0m
+[ 84%] [34m[1mGenerating Python from MSG bio_ik_msgs/PositionGoal[0m
+[ 85%] [34m[1mGenerating Python from MSG bio_ik_msgs/TouchGoal[0m
+[ 86%] [34m[1mGenerating Python from MSG bio_ik_msgs/ConeGoal[0m
+[ 87%] [34m[1mGenerating Python from MSG bio_ik_msgs/CenterJointsGoal[0m
+[ 88%] [34m[1mGenerating EusLisp code from bio_ik_msgs/ConeGoal.msg[0m
+[ 89%] [34m[1mGenerating EusLisp code from bio_ik_msgs/CenterJointsGoal.msg[0m
+[ 91%] [34m[1mGenerating C++ code from bio_ik_msgs/MinDistanceGoal.msg[0m
+[ 92%] [34m[1mGenerating EusLisp code from bio_ik_msgs/AvoidJointLimitsGoal.msg[0m
+[ 93%] [34m[1mGenerating C++ code from bio_ik_msgs/GetIK.srv[0m
+[ 94%] [34m[1mGenerating Python from MSG bio_ik_msgs/AvoidJointLimitsGoal[0m
+[ 94%] [34m[1mGenerating EusLisp code from bio_ik_msgs/MinDistanceGoal.msg[0m
+[ 95%] [34m[1mGenerating EusLisp code from bio_ik_msgs/GetIK.srv[0m
+[ 96%] [34m[1mGenerating EusLisp manifest code for bio_ik_msgs[0m
+WARNING: Package name "FootstepControl" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 97%] [34m[1mGenerating Python from MSG bio_ik_msgs/MinDistanceGoal[0m
+[ 98%] [34m[1mGenerating Python code from SRV bio_ik_msgs/GetIK[0m
+WARNING: Package name "FootstepControl" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 98%] Built target bio_ik_msgs_generate_messages_cpp
+[ 98%] [34m[1mGenerating Python msg __init__.py for bio_ik_msgs[0m
+[100%] [34m[1mGenerating Python srv __init__.py for bio_ik_msgs[0m
+[100%] Built target bio_ik_msgs_generate_messages_eus
+[100%] Built target bio_ik_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bio_ik_msgs_generate_messages[0m
+[100%] Built target bio_ik_msgs_generate_messages

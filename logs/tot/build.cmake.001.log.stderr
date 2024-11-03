@@ -1,0 +1,10 @@
+[31m[1mCMake Error[0m at /home/CAD/butai01/ws/devel/share/fsc/cmake/fscConfig.cmake:173 (message):
+  Project 'tot' tried to find library 'FootstepControl'.  The library is
+  neither a target nor built/installed properly.  Did you compile project
+  'fsc'? Did you find_package() it before the subdirectory containing its
+  code is included?
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/catkin/cmake/catkinConfig.cmake:76 (find_package)
+  CMakeLists.txt:10 (find_package)
+
+

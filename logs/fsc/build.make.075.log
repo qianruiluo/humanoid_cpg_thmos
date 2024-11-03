@@ -1,0 +1,56 @@
+[35m[1mScanning dependencies of target _fsc_generate_messages_check_deps_SetV[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _fsc_generate_messages_check_deps_MyState[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _fsc_generate_messages_check_deps_CpgParam[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target _fsc_generate_messages_check_deps_SetV
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target _fsc_generate_messages_check_deps_MyState
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target _fsc_generate_messages_check_deps_CpgParam
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target fsc_node[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target fsc_generate_messages_py[0m
+[35m[1mScanning dependencies of target fsc_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target fsc_generate_messages_lisp[0m
+[ 22%] Built target fsc_generate_messages_py
+[ 40%] Built target fsc_generate_messages_eus
+[ 45%] [32mBuilding CXX object CMakeFiles/fsc_node.dir/src/FootstepControl.cpp.o[0m
+[35m[1mScanning dependencies of target fsc_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target fsc_generate_messages_nodejs[0m
+[ 59%] Built target fsc_generate_messages_lisp
+[ 72%] Built target fsc_generate_messages_cpp
+[ 86%] Built target fsc_generate_messages_nodejs
+[35m[1mScanning dependencies of target fsc_generate_messages[0m
+[35m[1mScanning dependencies of target fsc[0m
+[ 86%] Built target fsc_generate_messages
+[ 90%] [32mBuilding CXX object CMakeFiles/fsc.dir/src/FootstepControl.cpp.o[0m
+[ 95%] [32m[1mLinking CXX executable /home/CAD/butai01/ws/devel/.private/fsc/lib/fsc/node[0m
+[100%] [32m[1mLinking CXX shared library /home/CAD/butai01/ws/devel/.private/fsc/lib/libfsc.so[0m
+[100%] Built target fsc
+[100%] Built target fsc_node

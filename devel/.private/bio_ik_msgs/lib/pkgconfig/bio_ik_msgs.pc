@@ -1,0 +1,8 @@
+prefix=/home/CAD/butai01/ws/devel/.private/bio_ik_msgs
+
+Name: bio_ik_msgs
+Description: Description of bio_ik_msgs
+Version: 0.0.0
+Cflags: -I/home/CAD/butai01/ws/devel/.private/bio_ik_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

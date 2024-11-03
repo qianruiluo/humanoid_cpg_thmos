@@ -1,0 +1,8 @@
+Symlinking /home/CAD/butai01/ws/devel/share/rotconv/cmake/rotconvConfig.cmake
+Symlinking /home/CAD/butai01/ws/devel/share/rotconv/cmake/rotconvConfig-version.cmake
+Symlinking /home/CAD/butai01/ws/devel/lib/librotconvshared.so
+Symlinking /home/CAD/butai01/ws/devel/lib/librotconvstatic.a
+Symlinking /home/CAD/butai01/ws/devel/lib/pkgconfig/rotconv.pc
+Symlinking /home/CAD/butai01/ws/devel/lib/rotconv/rot_conv_sample_shared
+Symlinking /home/CAD/butai01/ws/devel/lib/rotconv/rot_conv_sample_direct
+Symlinking /home/CAD/butai01/ws/devel/lib/rotconv/rot_conv_sample_static

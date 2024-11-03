@@ -1,0 +1,44 @@
+[35m[1mScanning dependencies of target _FootstepControl_generate_messages_check_deps_MyState[0m
+[  0%] Built target _FootstepControl_generate_messages_check_deps_MyState
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _FootstepControl_generate_messages_check_deps_SetV[0m
+[  0%] Built target _FootstepControl_generate_messages_check_deps_SetV
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target FootstepControl_generate_messages_py[0m
+[  7%] [34m[1mGenerating Python from MSG FootstepControl/MyState[0m
+[35m[1mScanning dependencies of target FootstepControl_generate_messages_cpp[0m
+[ 15%] [34m[1mGenerating C++ code from FootstepControl/MyState.msg[0m
+[ 23%] [34m[1mGenerating Python code from SRV FootstepControl/SetV[0m
+[ 30%] [34m[1mGenerating C++ code from FootstepControl/SetV.srv[0m
+[ 38%] [34m[1mGenerating Python msg __init__.py for FootstepControl[0m
+[35m[1mScanning dependencies of target FootstepControl_generate_messages_eus[0m
+[ 38%] Built target FootstepControl_generate_messages_cpp
+[ 46%] [34m[1mGenerating EusLisp code from FootstepControl/MyState.msg[0m
+[ 53%] [34m[1mGenerating Python srv __init__.py for FootstepControl[0m
+[ 61%] [34m[1mGenerating EusLisp code from FootstepControl/SetV.srv[0m
+[ 69%] [34m[1mGenerating EusLisp manifest code for FootstepControl[0m
+[ 69%] Built target FootstepControl_generate_messages_py
+[35m[1mScanning dependencies of target FootstepControl_generate_messages_lisp[0m
+[ 76%] [34m[1mGenerating Lisp code from FootstepControl/MyState.msg[0m
+WARNING: Package name "FootstepControl" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "FootstepControl" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 84%] [34m[1mGenerating Lisp code from FootstepControl/SetV.srv[0m
+[35m[1mScanning dependencies of target FootstepControl_generate_messages_nodejs[0m
+[ 92%] [34m[1mGenerating Javascript code from FootstepControl/MyState.msg[0m
+[ 92%] Built target FootstepControl_generate_messages_lisp
+[100%] [34m[1mGenerating Javascript code from FootstepControl/SetV.srv[0m
+[100%] Built target FootstepControl_generate_messages_nodejs
+WARNING: Package name "FootstepControl" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "FootstepControl" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "FootstepControl" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[100%] Built target FootstepControl_generate_messages_eus
+[35m[1mScanning dependencies of target FootstepControl_generate_messages[0m
+[100%] Built target FootstepControl_generate_messages

@@ -1,0 +1,1 @@
+/home/CAD/butai01/ws/devel/.private/ik/lib/python2.7/dist-packages/py_pkg_1/__init__.py

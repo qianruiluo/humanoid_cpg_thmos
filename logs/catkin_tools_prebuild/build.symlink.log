@@ -1,0 +1,12 @@
+Symlinking /home/CAD/butai01/ws/devel/./_setup_util.py
+Symlinking /home/CAD/butai01/ws/devel/./setup.zsh
+Symlinking /home/CAD/butai01/ws/devel/./env.sh
+Symlinking /home/CAD/butai01/ws/devel/./local_setup.zsh
+Symlinking /home/CAD/butai01/ws/devel/./local_setup.sh
+Symlinking /home/CAD/butai01/ws/devel/./cmake.lock
+Symlinking /home/CAD/butai01/ws/devel/./local_setup.bash
+Symlinking /home/CAD/butai01/ws/devel/./setup.bash
+Symlinking /home/CAD/butai01/ws/devel/./setup.sh
+Symlinking /home/CAD/butai01/ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/CAD/butai01/ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/CAD/butai01/ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc

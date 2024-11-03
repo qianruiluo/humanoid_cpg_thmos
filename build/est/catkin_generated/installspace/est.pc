@@ -1,0 +1,8 @@
+prefix=/home/CAD/butai01/ws/install
+
+Name: est
+Description: Description of est
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

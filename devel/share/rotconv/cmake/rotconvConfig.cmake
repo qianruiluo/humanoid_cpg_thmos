@@ -1,0 +1,1 @@
+/home/CAD/butai01/ws/devel/.private/rotconv/share/rotconv/cmake/rotconvConfig.cmake

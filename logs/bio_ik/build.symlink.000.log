@@ -1,0 +1,4 @@
+Symlinking /home/CAD/butai01/ws/devel/share/bio_ik/cmake/bio_ikConfig-version.cmake
+Symlinking /home/CAD/butai01/ws/devel/share/bio_ik/cmake/bio_ikConfig.cmake
+Symlinking /home/CAD/butai01/ws/devel/lib/libbio_ik.so
+Symlinking /home/CAD/butai01/ws/devel/lib/pkgconfig/bio_ik.pc

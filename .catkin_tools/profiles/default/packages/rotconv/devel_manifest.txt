@@ -1,0 +1,10 @@
+bitbots_thmos_meta/lib/rot_conv_lib
+/home/CAD/butai01/ws/devel/.private/rotconv/cmake.lock /home/CAD/butai01/ws/devel/./cmake.lock
+/home/CAD/butai01/ws/devel/.private/rotconv/share/rotconv/cmake/rotconvConfig.cmake /home/CAD/butai01/ws/devel/share/rotconv/cmake/rotconvConfig.cmake
+/home/CAD/butai01/ws/devel/.private/rotconv/share/rotconv/cmake/rotconvConfig-version.cmake /home/CAD/butai01/ws/devel/share/rotconv/cmake/rotconvConfig-version.cmake
+/home/CAD/butai01/ws/devel/.private/rotconv/lib/librotconvshared.so /home/CAD/butai01/ws/devel/lib/librotconvshared.so
+/home/CAD/butai01/ws/devel/.private/rotconv/lib/librotconvstatic.a /home/CAD/butai01/ws/devel/lib/librotconvstatic.a
+/home/CAD/butai01/ws/devel/.private/rotconv/lib/pkgconfig/rotconv.pc /home/CAD/butai01/ws/devel/lib/pkgconfig/rotconv.pc
+/home/CAD/butai01/ws/devel/.private/rotconv/lib/rotconv/rot_conv_sample_shared /home/CAD/butai01/ws/devel/lib/rotconv/rot_conv_sample_shared
+/home/CAD/butai01/ws/devel/.private/rotconv/lib/rotconv/rot_conv_sample_direct /home/CAD/butai01/ws/devel/lib/rotconv/rot_conv_sample_direct
+/home/CAD/butai01/ws/devel/.private/rotconv/lib/rotconv/rot_conv_sample_static /home/CAD/butai01/ws/devel/lib/rotconv/rot_conv_sample_static

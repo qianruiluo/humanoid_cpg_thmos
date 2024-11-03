@@ -1,0 +1,3 @@
+/home/CAD/butai01/ws/devel/./cmake.lock 299
+/home/CAD/butai01/ws/devel/share/FootstepControl/cmake/FootstepControl-msg-paths.cmake 67
+/home/CAD/butai01/ws/devel/lib/python2.7/dist-packages/FootstepControl/__init__.py 67
